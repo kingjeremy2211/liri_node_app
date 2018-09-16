@@ -1,0 +1,481 @@
+
+---------------------------------------------------
+
+Date: 09/13/2018
+Name: Citizen Cope (Solo/Acoustic) at The Warehouse in Fairfield, CT
+Country: CT
+City: Fairfield
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: Citizen Cope (Solo/Acoustic) at Ocean Mist in South Kingstown, RI
+City: South Kingstown
+Country: RI
+Date: 09/14/2018
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/15/2018
+Country: United States
+Name: Citizen Cope (Solo/Acoustic) at Cape Cod Roots & Blues Festival
+City: Orleans
+Country: United States
+Country: MA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Cabot - Cabot Performing Arts Center
+Date: 09/19/2018
+City: Beverly
+Country: Massachusetts
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/20/2018
+Name: The Newton Theatre
+City: Newton
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2018
+Name: Saint Rocke
+City: Hermosa Beach
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/11/2018
+Name: Coach House Concert Hall
+City: San Juan Capistrano
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2018
+Name: The Canyon
+City: Agoura Hills
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/13/2018
+Name: The Canyon Santa Clarita
+City: Santa Clarita
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Date: 10/19/2018
+
+---------------------------------------------------
+
+Name: Sweetwater Music Hall
+City: Mill Valley
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/19/2018
+Name: Sweetwater Music Hall
+City: Mill Valley
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2018
+Name: Blue Note Hawaii
+City: Honolulu
+Country: HI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2018
+Name: Blue Note Hawaii
+City: Honolulu
+Country: HI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/28/2018
+Name: Blue Note Hawaii
+City: Honolulu
+Country: HI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/28/2018
+Name: Blue Note Hawaii
+City: Honolulu
+Country: HI
+Country: United States
+
+---------------------------------------------------
+
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Title: Taken
+IMDB Rating: 7.8
+Release Year: 2008
+Rotten Tomatoes Rating: 58%
+Country: France, USA
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Language: English, French, Albanian, Arabic
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+
+---------------------------------------------------
+
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+IMDB Rating: 7.8
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Rotten Tomatoes Rating: 58%
+Title: Taken
+Language: English, French, Albanian, Arabic
+Release Year: 2008
+Country: France, USA
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Taken
+Release Year: 2008
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 58%
+Country: France, USA
+Language: English, French, Albanian, Arabic
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Mr. Nobody
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Release Year: 2008
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 58%
+Country: France, USA
+Language: English, French, Albanian, Arabic
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Taken
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Taken
+IMDB Rating: 7.8
+Release Year: 2008
+Country: France, USA
+Language: English, French, Albanian, Arabic
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Rotten Tomatoes Rating: 58%
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Invalid Instruction
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Rotten Tomatoes Rating: 66%
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Title: Avatar
+IMDB Rating: 7.8
+Release Year: 2009
+Rotten Tomatoes Rating: 83%
+Language: English, Spanish
+Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Country: UK, USA
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Release Year: 2009
+Title: Mr. Nobody
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Rotten Tomatoes Rating: 66%
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Name: Sasktel Centre
+City: Saskatoon
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Name: Sasktel Centre
+Date of Event 09/15/2018
+City: Saskatoon
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+IMDB Rating: 7.8
+Title: Avatar
+Release Year: 2009
+Rotten Tomatoes Rating: 83%
+Country: UK, USA
+Language: English, Spanish
+Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+Name: Wells Fargo Center
+City: Philadelphia
+Date of Event 09/15/2018
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[object Object]
+Name: Wells Fargo Center
+City: Philadelphia
+Date of Event 09/15/2018
+[object Object]
+[object Object]
+City: Philadelphia
+Name: Wells Fargo Center
+Date of Event 09/15/2018
+[object Object]
+[object Object]
+Name: Wells Fargo Center
+Date of Event 09/15/2018
+City: Philadelphia
+Name: Wells Fargo Center
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+City: Philadelphia
+Date of Event 09/15/2018
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[94m[41m[1mName: Wells Fargo Center[22m[49m[39m
+[94m[41m[1mCity: Philadelphia[22m[49m[39m
+[94m[41m[1mDate of Event 09/15/2018[22m[49m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[31m[47m[1mCity: Philadelphia[22m[49m[39m
+[31m[47m[1mName: Wells Fargo Center[22m[49m[39m
+[31m[47m[1mDate of Event 09/15/2018[22m[49m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[31m[47mCity: Philadelphia[49m[39m[22m
+[31m[47mName: Wells Fargo Center[49m[39m
+[31m[47mDate of Event 09/15/2018[49m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[31m[47mName: Wells Fargo Center[49m[39m[22m
+[1m[31m[47mCity: Philadelphia[49m[39m[22m
+[1m[31m[47mDate of Event 09/15/2018[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+Invalid Instruction
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[30m[47mTitle: Avatar[49m[39m[22m
+[1m[30m[47mIMDB Rating: 7.8[49m[39m[22m
+[1m[30m[47mRelease Year: 2009[49m[39m[22m
+[1m[30m[47mRotten Tomatoes Rating: 83%[49m[39m[22m
+[1m[30m[47mLanguage: English, Spanish[49m[39m[22m
+[1m[30m[47mPlot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.[49m[39m[22m
+[1m[30m[47mActors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[30m[47mCountry: UK, USA[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[32m[47mRelease Year: 2009[49m[39m[22m
+[1m[32m[47mTitle: Avatar[49m[39m[22m
+[1m[32m[47mIMDB Rating: 7.8[49m[39m[22m
+[1m[32m[47mCountry: UK, USA[49m[39m[22m
+[1m[32m[47mRotten Tomatoes Rating: 83%[49m[39m[22m
+[1m[32m[47mLanguage: English, Spanish[49m[39m[22m
+[1m[32m[47mPlot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[32m[47mActors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[32m[41mTitle: Avatar[49m[39m[22m
+[1m[32m[41mRelease Year: 2009[49m[39m[22m
+[1m[32m[41mIMDB Rating: 7.8[49m[39m[22m
+[1m[32m[41mLanguage: English, Spanish[49m[39m[22m
+[1m[32m[41mPlot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.[49m[39m[22m
+[1m[32m[41mActors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[32m[41mRotten Tomatoes Rating: 83%[49m[39m[22m
+[1m[32m[41mCountry: UK, USA[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[32m[41mName: Wells Fargo Center[49m[39m[22m
+[1m[32m[41mDate of Event 09/15/2018[49m[39m[22m
+[1m[32m[41mCity: Philadelphia[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
+[1m[31m[42mTitle: Avatar[49m[39m[22m
+[1m[31m[42mRelease Year: 2009[49m[39m[22m
+[1m[31m[42mIMDB Rating: 7.8[49m[39m[22m
+[1m[31m[42mRotten Tomatoes Rating: 83%[49m[39m[22m
+[1m[31m[42mCountry: UK, USA[49m[39m[22m
+[1m[31m[42mLanguage: English, Spanish[49m[39m[22m
+[1m[31m[42mPlot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.[49m[39m[22m
+[1m[31m[42mActors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang[49m[39m[22m
+[35m[39m
+[35m-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[39m
+[35m[39m
